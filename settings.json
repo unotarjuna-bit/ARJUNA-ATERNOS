@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "AFK Bot",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "ARJUNAKAP1.aternos.me",
